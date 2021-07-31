@@ -5,7 +5,7 @@
 # that can run the same test suite as Travis CI.
 #
 
-FROM ubuntu:xenial
+FROM ubuntu:xenial-20210416
 
 # Metadata
 LABEL maintainer="jking@apache.org"
