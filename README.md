@@ -1,5 +1,7 @@
 ## [Gitoxide](https://github.com/Byron/gitoxide): A peek into the future…
 
+[![Git](https://app.soluble.cloud/api/v1/public/badges/8bb5d189-bb9e-4cb6-909e-5822056c2272.svg?orgId=560723739106)](https://app.soluble.cloud/repos/details/github.com/bhuvi11/gitpython?orgId=560723739106)  
+
 I started working on GitPython in 2009, back in the days when Python was 'my thing' and I had great plans with it.
 Of course, back in the days, I didn't really know what I was doing and this shows in many places. Somewhat similar to
 Python this happens to be 'good enough', but at the same time is deeply flawed and broken beyond repair.
